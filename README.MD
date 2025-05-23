@@ -34,13 +34,13 @@ It serves as an exploration into rapid backend prototyping with TypeScript.
 ## How to Use?
 
 1. **Clone the repository**
-   `git clone https://github.com/your-username/formula-one-api.git`
+   `git clone https://github.com/MatheusGonzzaga/fastify-node-ts-formula-one-api.git`
 
 2. **Install the dependencies**
    `npm install`
 
 3. **Start the server**
-   `npm run start:dev`
+   `npm run start:dev` or `npm run start:watch`
 
 ---
 
