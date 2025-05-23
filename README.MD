@@ -1,7 +1,3 @@
-Ótimo, Matheus! Agora com essa nova informação — de que o projeto foi feito com **Feastify**, **foco em velocidade e simplicidade**, e que ele **consiste em um único arquivo (`server.ts`) sem estrutura de pastas** — aqui está o `README.md` final, 100% fiel à realidade do seu projeto e ainda seguindo o padrão do seu outro readme:
-
----
-
 # Formula One API
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
@@ -48,6 +44,3 @@ It serves as an exploration into rapid backend prototyping with TypeScript.
 
 The purpose of this project was to explore **how quickly and simply** an API can be built using modern tooling like **Feastify**, while still leveraging TypeScript. It strips away architecture, folders, and abstractions to focus on **speed of development** and **clarity**.
 
----
-
-Se quiser adicionar exemplos de rotas ou saídas futuramente, posso complementar!
