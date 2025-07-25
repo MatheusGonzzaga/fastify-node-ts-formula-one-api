@@ -37,6 +37,22 @@ It serves as an exploration into rapid backend prototyping with TypeScript.
 
 ---
 
+## Scripts
+
+- `npm run dist`  
+  Compiles and bundles the source code using **tsup**.
+
+- `npm run start:dev`  
+  Starts the server in development mode using **tsx**, loading environment variables from `.env`.
+
+- `npm run start:watch`  
+  Starts the server with hot reload enabled; restarts automatically on source changes.
+
+- `npm run start:dist`  
+  Builds the project (`dist`) and runs the compiled JavaScript.
+
+---
+
 ## How to Use?
 
 1. **Clone the repository**  
@@ -46,7 +62,8 @@ It serves as an exploration into rapid backend prototyping with TypeScript.
    `npm install`
 
 3. **Start the server**  
-   `npm run start:dev` or `npm run start:watch`
+   Use one of the scripts described above, for example:  
+   `npm run start:dev`
 
 4. **Access the API**  
    The server runs on `http://localhost:3333`
